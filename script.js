@@ -11,6 +11,7 @@ let newBtn = document.querySelector('.btn--new');
 
 let num = Math.floor(Math.random() * 6) + 1;
 
+//init function to start the game
 let init = function () {};
 
 rollBtn.addEventListener('click', function () {
